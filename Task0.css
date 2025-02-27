@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(255, 182, 193);
+    font-family: "Lato", Helvetica, sans-serif;
+}
+.heading {
+    margin-top: 50px;
+    line-height: 1.2;
+    color: antiquewhite;
+}
+.bodyText {
+    font-size: 20px;
+    padding: 6px;
+    margin-bottom: 23px;
+    color: white;
+}
+.image {
+    border-radius: 25px;
+}
+figcaption {
+    color: antiquewhite;
+}
+.nav1 {
+    width: 120px;
+    height: 40px;
+    margin-top: 25px;
+    background-color: #2503FD;
+    color: antiquewhite;
+    font-size: 15px;
+    border: none;
+    right: 2%;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.nav1:hover {
+    background-color: cornflower blue;
+}
